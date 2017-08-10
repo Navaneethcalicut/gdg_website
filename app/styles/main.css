@@ -76,11 +76,10 @@ body {
 
 .introduction {
   position: relative;
-  height: 650px;
-  width: 100%;
-  background: url('../images/bg.jpg') center 30% no-repeat;
+  background: url('../images/bg.jpg')  no-repeat;
   background-position: center;
-  background-size: cover;
+  
+
 }
 
 
